@@ -1,6 +1,6 @@
-SublimeLinter-contrib-__linter__
+SublimeLinter-contrib-jsonschema-lint
 -------------------------------
-This linter plugin for SublimeLinter provides an interface to __linter__.
+This linter plugin for SublimeLinter provides an interface to jsonschema-lint.
 
 For more information, please see:
-https://github.com/__user__/SublimeLinter-contrib-__linter__
+https://github.com/jacksmith15/SublimeLinter-contrib-jsonschema-lint
